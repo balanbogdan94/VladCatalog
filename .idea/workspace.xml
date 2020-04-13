@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc8bb5e3-7bb0-4590-b0e4-10ec61bfa3b7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aTsVUb9oX9xXOVPlvUrcBSa9f9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vira.TestDrive" />
+      <module name="VladLearningCatalog" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestDrive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc8bb5e3-7bb0-4590-b0e4-10ec61bfa3b7" name="Default Changelist" comment="" />
+      <created>1586770941566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586770941566</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2773" y="263" key="#com.intellij.ide.util.MemberChooser" timestamp="1586773798953">
+      <screen x="1680" y="0" width="2560" height="1080" />
+    </state>
+    <state x="2773" y="263" key="#com.intellij.ide.util.MemberChooser/1680.0.2560.1080/0.0.1680.1050@1680.0.2560.1080" timestamp="1586773798953" />
+    <state x="2698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586774506947">
+      <screen x="1680" y="0" width="2560" height="1080" />
+    </state>
+    <state x="2698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1680.0.2560.1080/0.0.1680.1050@1680.0.2560.1080" timestamp="1586774506947" />
+    <state x="2698" y="294" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1586772343620">
+      <screen x="1680" y="0" width="2560" height="1080" />
+    </state>
+    <state x="2698" y="294" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/1680.0.2560.1080/0.0.1680.1050@1680.0.2560.1080" timestamp="1586772343620" />
+    <state width="2518" height="304" key="GridCell.Tab.0.bottom" timestamp="1586776193597">
+      <screen x="1680" y="0" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="304" key="GridCell.Tab.0.bottom/1680.0.2560.1080/0.0.1680.1050@1680.0.2560.1080" timestamp="1586776193597" />
+    <state width="2518" height="304" key="GridCell.Tab.0.center" timestamp="1586776193595">
+      <screen x="1680" y="0" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="304" key="GridCell.Tab.0.center/1680.0.2560.1080/0.0.1680.1050@1680.0.2560.1080" timestamp="1586776193595" />
+    <state width="2518" height="304" key="GridCell.Tab.0.left" timestamp="1586776193594">
+      <screen x="1680" y="0" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="304" key="GridCell.Tab.0.left/1680.0.2560.1080/0.0.1680.1050@1680.0.2560.1080" timestamp="1586776193594" />
+    <state width="2518" height="304" key="GridCell.Tab.0.right" timestamp="1586776193596">
+      <screen x="1680" y="0" width="2560" height="1080" />
+    </state>
+    <state width="2518" height="304" key="GridCell.Tab.0.right/1680.0.2560.1080/0.0.1680.1050@1680.0.2560.1080" timestamp="1586776193596" />
+    <state x="2639" y="372" key="com.intellij.ide.util.TipDialog" timestamp="1586770945566">
+      <screen x="1680" y="0" width="2560" height="1080" />
+    </state>
+    <state x="2639" y="372" key="com.intellij.ide.util.TipDialog/1680.0.2560.1080/0.0.1680.1050@1680.0.2560.1080" timestamp="1586770945566" />
+  </component>
+</project>
